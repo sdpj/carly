@@ -1,0 +1,12 @@
+h3.subtitle{
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+div#admin-quick-stats > a > div.admin-quick-stat{
+	border: 1px solid rgba(0, 0, 0, 0.05);
+	background: rgba(0, 0, 0, 0.02);
+	color: #333;
+}
+#manage-users > tbody > tr > td > a{
+	color: #333;
+	font-weight: 400;
+}

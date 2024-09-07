@@ -1,0 +1,4 @@
+213.180.203.116 - - [23/Jul/2023:03:17:42 +0200] "GET /robots.txt HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+95.108.213.225 - - [23/Jul/2023:03:17:42 +0200] "GET /Users.php HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+5.45.207.173 - - [23/Jul/2023:08:01:44 +0200] "GET /robots.txt HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+213.180.203.218 - - [23/Jul/2023:08:01:45 +0200] "GET /Store/UserStore.php?Sort=Accessories HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"

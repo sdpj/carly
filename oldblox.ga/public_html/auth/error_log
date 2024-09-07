@@ -1,0 +1,10 @@
+[23-Mar-2014 04:22:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/world/public_html/Header1.php:17) in /home/world/public_html/auth/logout.php on line 3
+[23-Mar-2014 04:23:06 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/world/public_html/auth/logout.php on line 3
+[31-Dec-2014 02:25:07 America/Chicago] PHP Fatal error:  Cannot redeclare SecurePost() (previously declared in /home/world2build/public_html/filter.php:10) in /home/world2build/public_html/filter.php on line 12
+[31-Dec-2014 02:25:11 America/Chicago] PHP Fatal error:  Cannot redeclare SecurePost() (previously declared in /home/world2build/public_html/filter.php:10) in /home/world2build/public_html/filter.php on line 12
+[31-Dec-2014 02:25:22 America/Chicago] PHP Fatal error:  Cannot redeclare SecurePost() (previously declared in /home/world2build/public_html/filter.php:10) in /home/world2build/public_html/filter.php on line 12
+[31-Dec-2014 02:25:38 America/Chicago] PHP Fatal error:  Cannot redeclare SecurePost() (previously declared in /home/world2build/public_html/filter.php:10) in /home/world2build/public_html/filter.php on line 12
+[31-Dec-2014 02:25:40 America/Chicago] PHP Fatal error:  Cannot redeclare SecurePost() (previously declared in /home/world2build/public_html/filter.php:10) in /home/world2build/public_html/filter.php on line 12
+[31-Dec-2014 12:34:58 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 12:34:58 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[11-Jan-2015 19:52:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/world2bu/public_html/Global.php on line 16

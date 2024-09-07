@@ -1,0 +1,4 @@
+24.176.90.134 - - [04/Feb/2022:17:42:46 +0100] "GET / HTTP/1.1" 200 1416 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76"
+24.176.90.134 - - [04/Feb/2022:17:42:46 +0100] "GET /favicon.ico HTTP/1.1" 200 0 "http://undertale.ct8.pl/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76"
+206.1.136.191 - - [04/Feb/2022:23:39:12 +0100] "GET / HTTP/1.1" 200 1416 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"
+206.1.136.191 - - [04/Feb/2022:23:39:14 +0100] "GET /favicon.ico HTTP/1.1" 200 0 "http://undertale.ct8.pl/" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"

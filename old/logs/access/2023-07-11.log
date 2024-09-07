@@ -1,0 +1,2 @@
+5.255.253.66 - - [11/Jul/2023:15:49:56 +0200] "GET /robots.txt HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+5.45.207.173 - - [11/Jul/2023:15:49:57 +0200] "GET /Store/UserStore.php?Sort=Pants HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"

@@ -1,0 +1,2 @@
+95.108.213.94 - - [31/Jul/2023:16:40:34 +0200] "GET /robots.txt HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+5.255.231.149 - - [31/Jul/2023:16:40:34 +0200] "GET / HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"

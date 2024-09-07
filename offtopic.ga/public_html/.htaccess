@@ -1,0 +1,41 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+# DirectoryIndex index.html index.htm index.php
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{DOCUMENT_ROOT}/$1/index\.html !-f
+# RewriteCond %{DOCUMENT_ROOT}/$1/index\.htm !-f
+# RewriteCond %{DOCUMENT_ROOT}/$1/index\.php !-f
+# RewriteRule ^(.+?)(?:/[^/]+)?/?$ index.php [L]
+</IfModule>
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+Options All -Indexes
+RewriteEngine on
+ErrorDocument 404   http://offtopic.ga/error?type=404
+
+
+Options +FollowSymLinks -Multiviews
+RewriteEngine on
+RewriteBase /
+#
+# Canonicalize the hostname
+RewriteCond www.%{HTTP_HOST} ^(www)\.(offtopic\.ga) [OR]
+RewriteCond %{HTTP_HOST} ^www\.([^.]+)\.(offtopic\.ga) [OR]
+RewriteCond %{HTTP_HOST} ^([^.]+)\.www\.(offtopic\.ga) [OR]
+RewriteCond %{HTTP_HOST} ^([^.]+)\.(offtopic\.ga). [OR]
+RewriteCond %{HTTP_HOST} ^([^.]+)\.(offtopic\.ga):[0-9]+
+RewriteRule (.*) http://%1.%2/$1 [R=301,L]
+#
+# If subdomain is NOT www
+RewriteCond %{HTTP_HOST} !^www\.offtopic\.ga [NC]
+# Extract (required) subdomain to %1
+RewriteCond %{HTTP_HOST} ^([^.]+)\.offtopic\.ga$
+# Rewrite if requested URL resolves to existing file or subdirectory in /subdomains/<subdomain>/ path
+RewriteCond %{DOCUMENT_ROOT}/subdomains/%1/$1 -f [OR]
+RewriteCond %{DOCUMENT_ROOT}/subdomains/%1/$1 -d
+RewriteRule (.*) /subdomains/%1/$1 [L]

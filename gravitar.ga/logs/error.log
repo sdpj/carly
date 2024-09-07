@@ -1,0 +1,8 @@
+[Sat Jun 04 02:59:45.646179 2022] [authz_core:error] [pid 8836] [client 104.244.210.57:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.ht
+[Sat Jun 04 06:41:46.686226 2022] [authz_core:error] [pid 50009] [client 198.245.53.182:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.ht
+[Sat Jun 04 06:46:00.810288 2022] [authz_core:error] [pid 31819] [client 93.158.161.55:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.ht
+[Sat Jun 04 07:04:49.259709 2022] [authz_core:error] [pid 50009] [client 77.88.5.161:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.ht
+[Thu Jun 23 22:36:12.063138 2022] [authz_core:error] [pid 6335] [client 207.241.235.134:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.ht
+[Thu Jun 23 22:36:14.792742 2022] [authz_core:error] [pid 7310] [client 207.241.225.95:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.ht
+[Tue Sep 13 14:21:12.036171 2022] [authz_core:error] [pid 84008] [client 5.161.137.85:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.htaccess
+[Fri Dec 02 10:51:18.591459 2022] [authz_core:error] [pid 91965] [client 77.88.5.81:0] AH01630: client denied by server configuration: /usr/home/offtopic/domains/gravitar.ga/public_html/.ht

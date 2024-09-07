@@ -1,0 +1,22 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+RewriteRule (.*)\.aspx$ $1.php [L,T=application/x-httpd-php]
+rewriteRule ^People[/]?$ /users/index.php [L]
+rewriteRule ^Shop[/]?$ /Store/Store.php [L]
+rewriteRule ^Shop/StoreUpload.php[/]?$ /Store/StoreUpload.php [L]
+rewriteRule ^Shop/Item$1.php[/]?$ /Store/Item.php [L]
+rewriteRule ^UserShop[/]?$ /Store/UserStore.php [L]
+rewriteRule ^My/Account[/]?$ /account.php [L]
+rewriteRule ^My/Character[/]?$ /character.php [L]
+rewriteRule ^My/FRs[/]?$ /FriendRequests.php [L]
+rewriteRule ^UserShop/UserUpload.php[/]?$ /Store/UserUpload.php [L]
+rewriteRule ^Inbox[/]?$ inbox.php [L]
+
+<Files 403.shtml>
+order deny,allow
+deny from all
+allow from  68.62.209.0
+</Files>
+

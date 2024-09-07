@@ -1,0 +1,28 @@
+# fake extensions (for help with url authenticity)
+RewriteRule ^(.*).aspx$ $1.php
+RewriteRule ^(.*).ashx$ $1.php
+
+RewriteRule ^home/?(.*)$ /2016/index.php [L]
+
+RewriteRule ^search/users/?(.*)$ /2016/Players/index.php [L]
+RewriteRule ^users/([^/]+)/profile /2016/Profile/index.php?id=$1 [L,QSA,NC]
+
+RewriteRule ^messages/compose/?(.*)$ /2016/Profile/Send/index.php [L,QSA]
+RewriteRule ^My/Messages/?(.*)$ /2016/Personal/Messages/index.php [L,QSA]
+RewriteRule ^My/Notifications/?(.*)$ /2016/Personal/Notifications/index.php [L,QSA]
+RewriteRule ^message/([^/]+)/?$ /2016/Personal/Messages/view.php?id=$1 [L,QSA]
+RewriteRule ^notification/([^/]+)/?$ /2016/Personal/Notifications/view.php?id=$1 [L,QSA]
+
+RewriteRule ^catalog/([^/]+)/?$ /2016/Market/Items/index.php?id=$1 [L,QSA]
+RewriteRule ^catalog/([^/]+)/([^/]+)?$ /2016/Market/Items/index.php?id=$1 [L,QSA]
+RewriteRule ^catalog/?(.*)$ /2016/Market/index.php [L,QSA]
+
+RewriteRule ^games/([^/]+)/?$ /2016/Games/Place/index.php?id=$1 [L,QSA]
+RewriteRule ^games/([^/]+)/([^/]+)?$ /2016/Games/Place/index.php?id=$1 [L,QSA]
+RewriteRule ^games/?(.*)$ /2016/Games/index.php [L,QSA]
+
+# custom error page
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f  
+RewriteCond %{REQUEST_FILENAME} !-d  
+RewriteRule .* /2016/Error/index.php [L]

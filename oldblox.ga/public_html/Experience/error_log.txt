@@ -1,0 +1,12 @@
+[19-Jan-2022 23:34:43 Europe/Warsaw] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/index.php on line 182
+[19-Jan-2022 23:36:02 Europe/Warsaw] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/index.php on line 182
+[19-Jan-2022 23:36:02 Europe/Warsaw] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/index.php on line 182
+[19-Jan-2022 23:49:00 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 727
+[19-Jan-2022 23:49:23 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 727
+[19-Jan-2022 23:49:25 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 727
+[19-Jan-2022 23:49:35 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 727
+[19-Jan-2022 23:49:36 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 727
+[19-Jan-2022 23:49:39 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 727
+[20-Jan-2022 00:10:02 Europe/Warsaw] PHP Parse error:  syntax error in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 523
+[20-Jan-2022 00:10:04 Europe/Warsaw] PHP Parse error:  syntax error in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 523
+[20-Jan-2022 00:26:09 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Experience/includes/main.php on line 727

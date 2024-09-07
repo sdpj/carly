@@ -1,0 +1,2 @@
+87.250.224.221 - - [03/Jul/2023:06:43:03 +0200] "GET /robots.txt HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+213.180.203.111 - - [03/Jul/2023:06:43:04 +0200] "GET /Store/UserStore.php?Sort=Shirts HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"

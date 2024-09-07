@@ -1,0 +1,41 @@
+# allow urls without .php to still serve the right file
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+# fake extensions (for help with url authenticity)
+RewriteRule ^(.*).aspx$ $1.php
+RewriteRule ^(.*).ashx$ $1.php
+
+# non-roblox url rewrites
+RewriteEngine On
+RewriteRule ^internal/blog/([^/]+)/?$ /auth/blog.php?id=$1 [L,QSA]
+RewriteRule ^internal/blog/?(.*)$ /auth/blog.php [L]
+Redirect 301 /info/blog /internal/blog
+
+RewriteRule ^internal/promocode/?(.*)$ /auth/promocode.php [L]
+RewriteRule ^internal/redeem/?(.*)$ /auth/promocode.php [L]
+
+RewriteRule internal/admin/?(.*)$ /auth/admin/$1 [L]
+
+Redirect 301 /privacy /auth/privacy
+
+# roblox url rewrites
+RewriteEngine On
+
+Redirect 301 /Asset /asset
+
+RewriteRule ^game/players/([^/]+)/?$ /Game/players.php?id=$1 [L,QSA]
+
+# run php 5.6
+AddHandler application/x-httpd-php56 .php .php5 .html .htm
+AddType application/x-httpd-php56 .php .php5 .html .htm
+
+# prevent directory listing
+Options All -Indexes
+
+# custom error page
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f  
+RewriteCond %{REQUEST_FILENAME} !-d  
+RewriteRule .* /auth/404.php [L]

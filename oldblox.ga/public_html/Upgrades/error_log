@@ -1,0 +1,95 @@
+[07-Apr-2014 05:29:29 UTC] PHP Warning:  include(/Header.php): failed to open stream: No such file or directory in /home/world/public_html/Upgrades/Premium.php on line 2
+[07-Apr-2014 05:29:29 UTC] PHP Warning:  include(): Failed opening '/Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world/public_html/Upgrades/Premium.php on line 2
+[31-Dec-2014 12:39:27 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 12:39:27 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[31-Dec-2014 12:44:54 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 12:44:54 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[03-Jan-2015 06:30:18 UTC] PHP Parse error:  syntax error, unexpected ''DOCUMENT_ROO' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/world2build/public_html/Upgrades/Premium.php on line 19
+[11-Jan-2015 21:30:52 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 6
+[11-Jan-2015 21:30:52 America/Chicago] PHP Warning:  mysql_select_db(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 7
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 7
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/filter.php on line 7
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_select_db(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/filter.php on line 8
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/world2bu/public_html/filter.php on line 8
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 78
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 78
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 79
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 98
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 98
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 100
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 111
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 111
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Global.php on line 112
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 118
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 118
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 119
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 125
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 125
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 126
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 132
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 132
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 133
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 146
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 146
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 147
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 147
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 233
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 233
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 234
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 245
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 245
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 247
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 254
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 254
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 255
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 267
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 267
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 268
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 291
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 291
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 292
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 315
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 315
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 316
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 363
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 363
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 364
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 364
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 366
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 366
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Global.php on line 367
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 368
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 368
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Global.php on line 368
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 369
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 369
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Global.php on line 369
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 371
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 371
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 392
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 392
+[11-Jan-2015 21:30:57 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Global.php on line 392
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 393
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 393
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Global.php on line 393
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 396
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 396
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 397
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 397
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Global.php on line 398
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Global.php on line 403
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Global.php on line 403
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Header.php on line 168
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Header.php on line 168
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 170
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Header.php on line 188
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Header.php on line 188
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 189
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Header.php on line 231
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Header.php on line 231
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 232
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Header.php on line 235
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Header.php on line 235
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/world2bu/public_html/Header.php on line 236
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Header.php on line 236
+[11-Jan-2015 21:30:59 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Header.php on line 239

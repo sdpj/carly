@@ -1,0 +1,13 @@
+td.video_cell {
+	width: 200px; 
+	height: 120px;
+	padding: 10px;
+}
+
+h3.video_title {
+	padding-bottom: 4px;
+}
+
+p.video_desc {
+	padding-top: 4px;
+}

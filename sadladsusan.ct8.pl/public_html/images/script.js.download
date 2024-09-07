@@ -1,0 +1,8 @@
+$(document).ready(function(){
+  $("aside .userinfo .usericon").hide();
+  $("aside .userinfo .footer").hide();
+  $("aside .userinfo .header").hover(function(){
+    $("aside .userinfo .usericon").slideToggle();
+    $("aside .userinfo .footer").slideToggle();
+  });
+});

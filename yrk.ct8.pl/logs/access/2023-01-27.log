@@ -1,0 +1,2 @@
+37.107.4.41 - - [27/Jan/2023:14:25:09 +0100] "GET /favicon.ico HTTP/1.1" 302 20500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.0.2947 Yowser/2.5 Safari/537.36"
+37.107.4.41 - - [27/Jan/2023:14:25:10 +0100] "GET /auth/home HTTP/1.1" 200 9333 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.0.2947 Yowser/2.5 Safari/537.36"

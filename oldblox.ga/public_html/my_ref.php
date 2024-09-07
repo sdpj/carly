@@ -1,0 +1,2 @@
+									<a href="/account.php">My Account</a> | <a href="/character.php">My Character</a> | <a href="/Wall/">My Wall</a> | <a href="/FriendRequests.php">My Friend Requests ('.$FriendsPending.')</a> | <a href="/Referrals.php">My Referrals</a> | <a href="/inbox.php">My PMs ('.$PMs.')</a> | <a href="/user.php?ID='.$myU->ID.'">My Profile</a> | <a href="/ItemLogs.php?view=all">Item Purchases</a> | 
+									Bux: <b><font title="'.number_format($myU->Bux).'" style="color:green;">'.$Bux.'</div></font></b> | <a href="/Logout.php">Logout</a>

@@ -1,0 +1,193 @@
+body{
+background-color:#EBEBEB;
+}
+#InfoButton{
+background-color:#6E98C8;
+padding:3px;
+color:white;
+width:33%;
+text-align:center;
+font-weight:bold;
+font-size:14px;
+}
+#Header{
+background-color:#6E98C8;
+height:35px;
+line-height:35px;
+text-align:center;
+color:white;
+padding:5px;
+}
+#Header a{
+color:white;
+font-size:19px;
+text-decoration:none;
+}
+#Header a:hover{
+color:white;
+font-size:19px;
+text-decoration:underline;
+}
+#Container{
+margin: 0 auto;
+padding: 0 10px;
+border-left: 5px solid #DDD;
+border-right: 5px solid #DDD;
+border-bottom: 5px solid #DDD;
+width: 900px;
+margin-bottom:5px;
+background: #e5f1fd;
+min-height:600px;
+}
+#StandardBoxHeader{
+float: inherit;
+background-color: #6e99c9;
+text-align: center;
+color: white;
+font-size: 16px;
+font-weight: bold;
+padding: 5px 10px 5px 10px;
+display: block;
+border: 2px solid #6e99c9;
+}
+#StandardBox{
+float: inherit;
+border: 2px solid #6e99c9;
+background-color: white;
+padding: 10px;
+margin-bottom: 10px;
+display: block;
+font-size:13px;
+}
+#StandardStoreBox{
+float: inherit;
+border: 2px solid #6e99c9;
+background-color: white;
+padding: 5px;
+margin-bottom: 10px;
+display: block;
+font-size:13px;
+}
+#SystemAlertBar{
+width:893px;
+text-align:center;
+height:18px;
+line-height:18px;
+background-color:red;
+border:1px solid #ccc;
+padding:3px;
+color:white;
+font-weight:bold;
+font-size:15px;
+}
+#Footer{
+margin: auto;
+margin-top:0;
+border: 5px solid #DDD;
+width: 900px;
+padding:10px;
+text-align:center;
+font-size:13px;
+background: #e5f1fd;
+}
+#SubHeader{
+height:25px;
+width:100%;
+background-color:#121212;
+line-height:25px;
+font-size:13px;
+font-weight:normal;
+text-align:center;
+color:white;
+}
+#SubHeader a{
+text-decoration:none;
+font-size:13px;
+font-weight:normal;
+color:white;
+margin-left:15px;
+}
+#SubHeader a:hover{
+margin-left:15px;
+text-decoration:none;
+font-size:13px;
+font-weight:normal;
+color:white;
+}
+#ForumTitle{
+color:white;
+font-weight:bold;
+font-size:20px;
+}
+#CategoryTitle{
+color:#363636;
+font-weight:bold;
+font-size:17px;
+}
+#CategoryDesc{
+font-size:13px;
+}
+#IndexTitle{
+color:white;
+font-weight:bold;
+font-size:20px;
+}
+#UserBlurb{
+overflow: hidden;
+width: 348px;
+padding: 5px 5px 5px 5px;
+line-height: 20px;
+font-size:12px;
+background-color: #FFF;
+border: solid 1px #000;
+}
+#forumcontainer{
+	border:1px solid black;
+	max-width:900px;
+}
+#forumindexheader{
+	background-color:#6E98C8;
+	height:20px;
+	max-height:20px;
+	line-height:20px;
+	font-weight:bold;
+	color:white;
+	padding:4px;
+	border:1px solid white;
+	font-size:13px;
+}
+#forumindexsubheader{
+	background-color:#BDD6F5;
+	height:15px;
+	max-height:15px;
+	line-height:15px;
+	font-weight:bold;
+	color:#013DA4;
+	padding:4px;
+	border:1px solid white;
+	font-size:13px;
+	border-bottom:2px solid white;
+}
+#forumcategorybar{
+	background-color:#6E98C8;
+	height:30px;
+	max-height:30px;
+	line-height:30px;
+	font-weight:bold;
+	color:white;
+	padding:4px;
+	border:1px solid white;
+	font-size:13px;
+}
+#badgetexthead{
+	float:left;
+	margin-left:15px;
+	font-weight:bold;
+	font-size:14px;
+	margin-bottom:10px;
+}
+#badgetext{
+	float:left;
+	margin-left:15px;
+	font-size:13px;
+}

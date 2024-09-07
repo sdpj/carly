@@ -1,0 +1,1 @@
+[Fri Dec 16 00:42:51.147481 2022] [authz_core:error] [pid 71687] [client 24.176.90.134:0] AH01630: client denied by server configuration: /usr/home/sadladsusan/domains/otherthing.sadladsusan.ct8.pl/public_html/.htaccess

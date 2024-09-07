@@ -1,0 +1,58 @@
+# allow urls without .php to still serve the right file
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+# fake extensions (for help with url authenticity)
+RewriteRule ^(.*).aspx$ $1.php
+RewriteRule ^(.*).ashx$ $1.php
+
+# non-roblox url rewrites
+RewriteEngine On
+RewriteRule ^internal/blog/([^/]+)/?$ /auth/blog.php?id=$1 [L,QSA]
+RewriteRule ^internal/blog/?(.*)$ /auth/blog.php [L]
+Redirect 301 /info/blog /internal/blog
+
+RewriteRule ^internal/promocode/?(.*)$ /auth/promocode.php [L]
+RewriteRule ^internal/redeem/?(.*)$ /auth/promocode.php [L]
+
+Redirect 301 /privacy /auth/privacy
+
+# roblox url rewrites
+RewriteEngine On
+
+Redirect 301 /Asset /asset
+
+RewriteRule ^game/players/([^/]+)/?$ /Game/players.php?id=$1 [L,QSA]
+
+RewriteRule ^home/?(.*)$ /index.php [L]
+
+RewriteRule ^search/users/?(.*)$ /Players/index.php [L]
+RewriteRule ^users/([^/]+)/profile /Profile/index.php?id=$1 [L,QSA,NC]
+
+RewriteRule ^messages/compose/?(.*)$ /Profile/Send/index.php [L,QSA]
+RewriteRule ^My/Messages/?(.*)$ /Personal/Messages/index.php [L,QSA]
+RewriteRule ^My/Notifications/?(.*)$ /Personal/Notifications/index.php [L,QSA]
+RewriteRule ^message/([^/]+)/?$ /Personal/Messages/view.php?id=$1 [L,QSA]
+RewriteRule ^notification/([^/]+)/?$ /Personal/Notifications/view.php?id=$1 [L,QSA]
+
+RewriteRule ^catalog/([^/]+)/?$ /Market/Items/index.php?id=$1 [L,QSA]
+RewriteRule ^catalog/([^/]+)/([^/]+)?$ /Market/Items/index.php?id=$1 [L,QSA]
+RewriteRule ^catalog/?(.*)$ /Market/index.php [L,QSA]
+
+RewriteRule ^games/([^/]+)/?$ /Games/Place/index.php?id=$1 [L,QSA]
+RewriteRule ^games/([^/]+)/([^/]+)?$ /Games/Place/index.php?id=$1 [L,QSA]
+RewriteRule ^games/?(.*)$ /Games/index.php [L,QSA]
+
+# custom error page
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f  
+RewriteCond %{REQUEST_FILENAME} !-d  
+RewriteRule .* /Error/index.php [L] 
+
+# run php 5.6
+AddHandler application/x-httpd-php56 .php .php5 .html .htm
+AddType application/x-httpd-php56 .php .php5 .html .htm
+
+# prevent directory listing
+Options All -Indexes

@@ -1,0 +1,54 @@
+<html>
+	<head>
+		<title>CYGO</title>
+		<script type='text/javascript' src='/EpicClubRebootMisc/functions2.js'></script>
+		<link rel='stylesheet' type='text/css' href='/EpicClubRebootMisc/global.css' />
+		<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' />
+	</head>
+	<body>
+		<div style='display:none;' id='OVBackground'></div>
+		<div style='display:none;' id='Overlay'>
+		<center>
+			<!-- Login Box -->
+			<div style='display:none;width:500px;' class='SBox' id='LoginBox'>
+				<button onclick='CloseLogin()' style='position:relative;right:-235px;font-weight:bold;font-size:10px;padding:2.5px;width:30px;border-radius:0px;'>X</button>
+				<h2>Login</h2>
+				<form method='post' action='login.php'>
+					<input id='usernameLogin' class='Ginput' name='Username' placeholder="Username" maxlength='20' required /><br>
+					<input class='Ginput' name='password1' type='password' placeholder="Password" required /><br>
+					<button> Submit </button>
+				</form>
+			</div>
+			
+			<!-- Register Box -->
+			<div style='display:none;width:500px;' class='SBox' id='RegisterBox'>
+				<button onclick='CloseRegi()' style='position:relative;right:-235px;font-weight:bold;font-size:10px;padding:2.5px;width:30px;border-radius:0px;'>X</button>
+				<h2>Sign Up!</h2>
+				<form method='post' action='register.php'>
+					<input id='username' class='Ginput' onkeyup='ValidateEpicU()' name='Username' placeholder="Desired Username"  maxlength='20' required/><br>
+					<input class='Ginput' name='email' type='email' placeholder="Email" required /><br>
+					<input class='Ginput' name='password1' type='password' placeholder="Password" required /><br>
+					<input class='Ginput' name='password2' type='password' placeholder="Retype Password" required /><br><br>
+					<div style='font-size:15px;white-space: nowrap;'>
+						<input class='GCheckBox' name='Gender' type='radio' checked value='M'> Male</input>
+						<input class='GCheckBox' name='Gender' type='radio' value='F'> Female</input>
+					</div><br>
+					<button> Submit </button>
+				</form>
+			</div>
+		
+		</center>
+		</div>
+		<br><BR><BR><BR><BR><BR><br><BR><BR><BR><BR><BR>
+
+		</div>
+			<center>
+			
+				<text style='font-size:105px;'><font color='blue'>Cy</font><font color='red'>go</font> </text><br>
+				</html><img style='position:fixed;left:45%;top:0%;' src='../EpicClubRebootMisc/IMGS/membership1.png'></img><img style='position:fixed;left:55%;top:0%;' src='../EpicClubRebootMisc/IMGS/membership2.png'></img><img style='position:fixed;left:35%;top:0%;' src='../EpicClubRebootMisc/IMGS/membership3.png'></img>
+
+				<button onclick='LoginBoxAppr()' style='border:2px solid red;'>Login</button> <button onclick="RegisterBoxAppr()" style='border:2px solid green;'>Register</button>
+			</center>
+	<body>
+<br><BR><BR><BR><BR><br><BR><BR><br><BR>
+<center><b><h4>dont pee on the floor use the commodore</b></h4></center>

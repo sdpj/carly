@@ -1,0 +1,139 @@
+[02-Jan-2015 18:36:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/world2build/public_html/Account/inbox.php on line 18
+[02-Jan-2015 18:36:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/world2build/public_html/Account/inbox.php on line 18
+[02-Jan-2015 18:36:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/world2build/public_html/Account/inbox.php on line 18
+[02-Jan-2015 18:43:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/world2build/public_html/Account/inbox.php on line 88
+[02-Jan-2015 18:43:53 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/world2build/public_html/Account/inbox.php on line 88
+[02-Jan-2015 20:17:30 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/world2build/public_html/Account/inbox.php on line 68
+[02-Jan-2015 20:17:36 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/world2build/public_html/Account/inbox.php on line 68
+[02-Jan-2015 20:17:39 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/world2build/public_html/Account/inbox.php on line 68
+[02-Jan-2015 20:17:48 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/world2build/public_html/Account/inbox.php on line 68
+[02-Jan-2015 20:18:03 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/world2build/public_html/Account/inbox.php on line 68
+[02-Jan-2015 20:31:21 UTC] PHP Parse error:  syntax error, unexpected ''DOCUMENT_ROOT'].'/Footer.php'' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/world2build/public_html/Account/inbox.php on line 97
+[10-Jan-2015 15:13:03 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:13:03 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:13:03 UTC] PHP Warning:  include(): Failed opening 'Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:13:03 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:13:03 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:13:47 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:13:47 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:13:47 UTC] PHP Warning:  include(): Failed opening 'Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:13:47 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:13:47 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:14:00 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:14:00 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:14:00 UTC] PHP Warning:  include(): Failed opening 'Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:14:00 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:14:00 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:14:27 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:14:29 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:14:29 UTC] PHP Warning:  include(): Failed opening 'Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:14:29 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:14:29 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  include(): Failed opening 'Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 8
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 8
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/ViewMessage.php on line 9
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 23
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 23
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/ViewMessage.php on line 24
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 25
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 25
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 102
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 102
+[10-Jan-2015 15:15:35 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 102
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  include(): Failed opening 'Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 8
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 8
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/ViewMessage.php on line 9
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 23
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 23
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/ViewMessage.php on line 24
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 25
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 25
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 102
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 102
+[10-Jan-2015 15:16:22 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 102
+[10-Jan-2015 15:16:39 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:16:39 UTC] PHP Warning:  include(Header.php): failed to open stream: No such file or directory in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:16:39 UTC] PHP Warning:  include(): Failed opening 'Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/world2bu/public_html/Account/ViewMessage.php on line 2
+[10-Jan-2015 15:16:39 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 15:16:39 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/world2bu/public_html/Account/ViewMessage.php on line 4
+[10-Jan-2015 16:48:48 UTC] PHP Parse error:  syntax error, unexpected '$gM' (T_VARIABLE) in /home/world2bu/public_html/Account/ViewMessage.php on line 13
+[10-Jan-2015 16:48:50 UTC] PHP Parse error:  syntax error, unexpected '$gM' (T_VARIABLE) in /home/world2bu/public_html/Account/ViewMessage.php on line 13
+[10-Jan-2015 16:48:51 UTC] PHP Parse error:  syntax error, unexpected '$gM' (T_VARIABLE) in /home/world2bu/public_html/Account/ViewMessage.php on line 13
+[10-Jan-2015 17:57:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/world2bu/public_html/Account/ViewMessage.php on line 76
+[10-Jan-2015 17:57:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/world2bu/public_html/Account/ViewMessage.php on line 76
+[10-Jan-2015 20:38:52 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 85
+[10-Jan-2015 20:38:54 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 85
+[10-Jan-2015 20:39:53 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 85
+[10-Jan-2015 20:59:49 UTC] PHP Parse error:  syntax error, unexpected 'mysql_query' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 92
+[10-Jan-2015 20:59:51 UTC] PHP Parse error:  syntax error, unexpected 'mysql_query' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 92
+[10-Jan-2015 20:59:52 UTC] PHP Parse error:  syntax error, unexpected 'mysql_query' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 92
+[10-Jan-2015 21:00:12 UTC] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 92
+[10-Jan-2015 21:00:13 UTC] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 92
+[10-Jan-2015 21:00:13 UTC] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 92
+[10-Jan-2015 21:00:26 UTC] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 88
+[10-Jan-2015 21:00:27 UTC] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/world2bu/public_html/Account/ViewMessage.php on line 88
+[11-Jan-2015 09:55:47 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:55:48 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:55:49 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:01 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:02 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:07 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:09 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:09 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:09 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:12 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:12 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:16 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:17 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:18 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:30 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:56:32 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:57:30 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:57:42 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:57:51 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 09:57:51 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Header.php on line 240
+[11-Jan-2015 15:26:19 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 13
+[11-Jan-2015 15:31:29 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 13
+[11-Jan-2015 15:35:07 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 21:38:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/world2bu/public_html/Account/DonateUser.php on line 50
+[11-Jan-2015 21:38:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/world2bu/public_html/Account/DonateUser.php on line 50
+[11-Jan-2015 15:39:06 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 15:39:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 15:39:20 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 15:39:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 15:39:24 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 15:39:24 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 15:39:48 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 15:39:48 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 15:40:04 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 15:40:04 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 15:40:47 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 15:40:47 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 17:31:12 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 17:31:12 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 17:32:56 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 17:32:56 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 17:42:25 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 17:42:25 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 17:43:38 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 17:43:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 17:43:40 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 17:43:40 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[11-Jan-2015 17:43:58 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2bu/public_html/Account/DonateUser.php on line 18
+[11-Jan-2015 17:43:58 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2bu/public_html/Account/DonateUser.php on line 19
+[12-Jan-2015 01:01:29 UTC] PHP Parse error:  syntax error, unexpected '$ExpireToDate' (T_VARIABLE) in /home/world2bu/public_html/Account/DonateUser.php on line 8
+[12-Jan-2015 01:01:31 UTC] PHP Parse error:  syntax error, unexpected '$ExpireToDate' (T_VARIABLE) in /home/world2bu/public_html/Account/DonateUser.php on line 8
+[12-Jan-2015 01:01:37 UTC] PHP Parse error:  syntax error, unexpected '$ExpireToDate' (T_VARIABLE) in /home/world2bu/public_html/Account/DonateUser.php on line 8
+[12-Jan-2015 19:54:55 UTC] PHP Parse error:  syntax error, unexpected ''<a href="https://www.world2bu' (T_ENCAPSED_AND_WHITESPACE) in /home/world2bu/public_html/Account/inbox.php on line 103
+[12-Jan-2015 19:59:50 UTC] PHP Parse error:  syntax error, unexpected '	', expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/world2bu/public_html/Account/inbox.php on line 99
+[12-Jan-2015 20:05:06 UTC] PHP Parse error:  syntax error, unexpected ' - 1)' in /home/world2bu/public_html/Account/inbox.php on line 10

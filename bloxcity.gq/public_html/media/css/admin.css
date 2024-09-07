@@ -1,0 +1,134 @@
+h3.subtitle{
+	margin-bottom: 20px;
+}
+div#admin-quick-stats{
+	width: 100%;
+	height: auto;
+	display: block;
+}
+div#admin-quick-stats > a > div.admin-quick-stat{
+	width: 30%;
+	display: inline-block;
+	height: auto;
+	padding: 1%;
+}
+table#manage-users{
+	width: 100%;
+	border: none;
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid rgb(228, 228, 228);
+}
+table#manage-users > tbody > tr > td{
+	text-align: center;
+	padding: 10px;
+	color: #555;
+	border: 1px solid rgb(228, 228, 228);
+}
+table#manage-users > thead{
+	background: #F0F0F0;
+}
+table#manage-users > thead > tr > th{
+	padding: 12px;
+	color: #666;
+	border: 1px solid rgb(228, 228, 228);
+	border-bottom-width: 2px;
+}
+div.profile-admin-functions{
+	width: 96%;
+	height: auto;
+	display: block;
+	padding: 2%;
+	border-radius: 4px;
+	background: rgba(255, 255, 255, 0.4);
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.3);
+	-moz-box-shadow:    inset 0px 0px 0px 1px rgba(255, 255, 255, 0.3);
+	box-shadow:         inset 0px 0px 0px 1px rgba(255, 255, 255, 0.3);
+}
+.btm{
+	margin-bottom: 20px;
+}
+h1 > a.back-to-btn{
+	float: right;
+	width: auto;
+	height: auto;
+	display: block;
+	padding: 6px;
+	font-size: 12px;
+}
+div#admin-functions{
+	width: 96%;
+	height: auto;
+	display: block;
+	padding: 2%;
+	border-radius: 4px;
+	background: rgba(255, 255, 255, 0.4);
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.3);
+	-moz-box-shadow:    inset 0px 0px 0px 1px rgba(255, 255, 255, 0.3);
+	box-shadow:         inset 0px 0px 0px 1px rgba(255, 255, 255, 0.3);
+	margin-top: 20px;
+}
+.search-input{
+	width: 78% !important;
+	display: inline-block !important;
+}
+.search-btn{
+	display: inline-block;
+	width: 18%;
+	height: 50px;
+}
+div.admin-badge-row{
+	display: block;
+	height: 128px;
+	padding: 2%;
+	position: relative;
+	background: rgb(245, 245, 245);
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	margin-bottom: 20px;
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.5);
+	-moz-box-shadow:    inset 0px 0px 0px 1px rgba(255, 255, 255, 0.5);
+	box-shadow:         inset 0px 0px 0px 1px rgba(255, 255, 255, 0.5);
+}
+div.admin-badge-row > img{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+}
+div.admin-badge-row > div.info{
+	display: inline-block;
+	vertical-align: top;
+	width: 40%;
+}
+div.admin-badge-row > div.info > p{
+	color: #333;
+	font-size: 14px;
+}
+div.admin-badge-row > div.info > span{
+	color: #333;
+	font-size: 12px;
+}
+div.admin-badge-row > div.actions{
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	bottom: 0;
+}
+div.admin-badge-row > div.actions > a{
+	color: #333;
+	display: block;
+	margin-bottom: 20px;
+}
+div#imagePreview{
+	width: 128px;
+	height: 128px;
+}
+div.economy-graph{
+	display: inline-block;
+	vertical-align: top;
+	width: 500px;
+}
+div.economy-graph:last-of-type{
+	margin-left: 60px;
+}

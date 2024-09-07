@@ -1,0 +1,6 @@
+109.237.97.227 - - [05/Jun/2023:09:02:11 +0200] "GET /.env HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+109.237.97.227 - - [05/Jun/2023:09:02:11 +0200] "GET /.env HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+109.237.97.227 - - [05/Jun/2023:09:02:11 +0200] "GET /.env HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+109.237.97.227 - - [05/Jun/2023:09:02:11 +0200] "GET /.env HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+5.255.231.140 - - [05/Jun/2023:16:58:41 +0200] "GET /robots.txt HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+95.108.213.218 - - [05/Jun/2023:16:58:41 +0200] "GET /UserItem?ID=1 HTTP/1.1" 403 2543 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"

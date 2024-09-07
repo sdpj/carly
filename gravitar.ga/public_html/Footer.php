@@ -1,0 +1,2 @@
+<div style="width:95%;border-bottom:1px solid #d8d8d8;margin:auto;"></div>
+<div style="text-align:center;color: #aaa;">&copy; Gravitar, 2022. Gravitar is not affiliated with <a href="https://gravatar.com/" style="color: #aaa;font-weight:500;">Gravatar.com</a></div>

@@ -1,0 +1,109 @@
+body {
+  background: #eee;
+  background-image: url("../images/backgrounds/1.png");
+}
+
+.navigation, .card .card-reveal {
+  background-color: #fff;
+}
+
+.border-bottom-1 {
+  border-bottom: 1px solid #e0e0e0 !important;
+}
+
+.heading {
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.hover-effect:hover {
+  background-color: #e0e0e0 !important;
+}
+
+.user-dropdown li.user-section:hover {
+  background: #fff;
+}
+
+.section .card, p.text, .notification-date, .message-date, .dropdown-title, .optgroup span, .navigation .dropdown-content.user-dropdown li>a, .card .card-reveal .card-title {
+  color: #000 !important;
+}
+
+.level-code .level-code-textarea:hover {
+  background-color: #eee;
+}
+
+p.subtitle {
+  color: #777 !important;
+}
+
+.navbar-fixed nav a, nav .dropdown-content li:not(#view-all-notifications) a {
+  color: #444;
+}
+
+.comment-info {
+  border-top: 1px solid #e0e0e0;
+}
+
+.progress {
+  background-color: #ccc;
+}
+
+.message-from-sender {
+  background-color: #ddd;
+}
+
+.user-email, .user-credits, .user-rank, .user-class {
+  color: #555;
+}
+
+.card-blocks .card .card-content a.btn{
+  color: #fff !important;
+}
+
+.slider .indicators .indicator-item {
+  background-color: #999;
+}
+
+.menu-bar {
+  background-color: #eee;
+  border-right: 2px solid #ccc;
+}
+
+.menu-bar-list li.active .menu-bar-icon {
+  background-color: #cdcdcd;
+}
+
+.separator {
+  background-color: #eee;
+}
+
+.leaderboard-overview-card .individual-scores-container {
+  border-left: 1px solid #eee;
+}
+
+.xp-score-container .percentile {
+  background-color: #ccc;
+}
+
+.individual-scores-container .percentile {
+  border: 6px solid #ccc;
+}
+
+.xp-score-container .percentile p {
+  color: #fff;
+}
+
+.toast a {
+  color: #fff !important;
+}
+
+::-webkit-scrollbar, *::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track, *::-webkit-scrollbar-track {
+  background: #ddd;
+}
+
+::-webkit-scrollbar-thumb, *::-webkit-scrollbar-thumb {
+  background: #bbb;
+}

@@ -1,0 +1,14 @@
+# fake extensions (for help with url authenticity)
+RewriteRule ^(.*).aspx$ $1.php
+RewriteRule ^(.*).ashx$ $1.php
+
+# allow "default.aspx to act as index while the normal index can too
+RewriteRule ^default.php?(.*)$ /2005/index.php [L]
+
+RewriteRule ^Game/Default.php?(.*)$ /2005/game.php [L]
+
+# custom error page
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f  
+RewriteCond %{REQUEST_FILENAME} !-d  
+RewriteRule .* /2005/error.php [L]

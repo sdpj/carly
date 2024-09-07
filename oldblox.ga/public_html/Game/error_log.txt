@@ -1,0 +1,186 @@
+[22-Jun-2012 23:36:36] PHP Parse error:  syntax error, unexpected $end in /home/socialpa/public_html/game/includes/main.php on line 356
+[22-Jun-2012 23:41:55] PHP Parse error:  syntax error, unexpected $end in /home/socialpa/public_html/game/templates/main.php on line 8
+[22-Jun-2012 23:43:57] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/socialpa/public_html/game/templates/main.php on line 160
+[22-Jun-2012 23:44:35] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/socialpa/public_html/game/templates/main.php on line 155
+[22-Jun-2012 23:44:38] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/socialpa/public_html/game/templates/main.php on line 155
+[22-Jun-2012 23:44:38] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/socialpa/public_html/game/templates/main.php on line 155
+[22-Jun-2012 23:44:39] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/socialpa/public_html/game/templates/main.php on line 155
+[22-Jun-2012 23:44:39] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/socialpa/public_html/game/templates/main.php on line 155
+[22-Jun-2012 23:44:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/socialpa/public_html/game/templates/main.php on line 155
+[22-Jun-2012 23:44:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/socialpa/public_html/game/templates/main.php on line 155
+[22-Jun-2012 23:46:40] PHP Parse error:  syntax error, unexpected $end in /home/socialpa/public_html/game/templates/main.php on line 370
+[23-Jun-2012 00:18:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/includes/main.php:935) in /home/socialpa/public_html/game/templates/main.php on line 4
+[23-Jun-2012 00:18:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/includes/main.php:935) in /home/socialpa/public_html/game/templates/main.php on line 5
+[23-Jun-2012 00:18:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/includes/main.php:935) in /home/socialpa/public_html/game/templates/main.php on line 6
+[23-Jun-2012 00:18:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/includes/main.php:935) in /home/socialpa/public_html/game/templates/main.php on line 7
+[23-Jun-2012 00:18:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/includes/main.php:935) in /home/socialpa/public_html/game/templates/main.php on line 8
+[23-Jun-2012 00:32:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/index.php:32) in /home/socialpa/public_html/game/templates/main.php on line 4
+[23-Jun-2012 00:32:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/index.php:32) in /home/socialpa/public_html/game/templates/main.php on line 5
+[23-Jun-2012 00:32:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/index.php:32) in /home/socialpa/public_html/game/templates/main.php on line 6
+[23-Jun-2012 00:32:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/index.php:32) in /home/socialpa/public_html/game/templates/main.php on line 7
+[23-Jun-2012 00:32:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/socialpa/public_html/game/index.php:32) in /home/socialpa/public_html/game/templates/main.php on line 8
+[23-Jun-2012 07:22:36] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/socialpa/public_html/game/templates/login.php on line 82
+[23-Jun-2012 11:19:49] PHP Parse error:  syntax error, unexpected $end in /home/socialpa/public_html/game/includes/main.php on line 84
+[23-Jun-2012 11:59:43] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/socialpa/public_html/game/index.php on line 35
+[23-Jun-2012 11:59:52] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/socialpa/public_html/game/index.php on line 35
+[23-Jun-2012 11:59:54] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/socialpa/public_html/game/index.php on line 35
+[23-Jun-2012 12:00:00] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/socialpa/public_html/game/index.php on line 35
+[23-Jun-2012 12:00:10] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/socialpa/public_html/game/index.php on line 35
+[23-Jun-2012 12:00:16] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/socialpa/public_html/game/index.php on line 35
+[23-Jun-2012 14:35:49] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:47:50] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:47:56] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:47:58] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:48:03] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:48:41] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:48:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:49:32] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:49:33] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:50:22] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:50:23] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:50:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:52:19] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:52:20] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:52:38] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:52:39] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:52:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:53:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:53:43] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:53:55] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:53:56] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:54:35] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:54:36] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:54:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:55:23] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:55:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:55:39] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:55:40] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:57:26] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:58:22] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:58:23] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 14:59:27] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:07] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:17] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:20] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:23] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:26] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:30] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:33] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:41] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:44] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:00:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:02:41] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:02:46] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:02:50] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:18] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:20] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:21] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:26] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:27] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:28] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:39] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:43] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:44] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:45] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:03:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:04:03] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:04:07] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:04:19] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:04:23] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:04:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:05:29] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:05:30] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:05:33] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:05:38] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[23-Jun-2012 15:07:16] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/socialpa/public_html/game/index.php on line 182
+[28-Dec-2015 04:44:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/u491292200/public_html/Game/index.php on line 182
+[28-Dec-2015 04:44:29 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/u491292200/public_html/Game/index.php on line 182
+[28-Dec-2015 04:44:41 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/u491292200/public_html/Game/index.php on line 182
+[28-Dec-2015 04:44:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u491292200/public_html/Game/includes/main.php on line 133
+[28-Dec-2015 04:44:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u491292200/public_html/Game/includes/main.php on line 439
+[28-Dec-2015 04:44:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u491292200/public_html/Game/includes/main.php on line 600
+[28-Dec-2015 04:45:44 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/u491292200/public_html/Game/index.php on line 182
+[28-Dec-2015 04:45:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u491292200/public_html/Game/includes/main.php on line 439
+[28-Dec-2015 04:45:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u491292200/public_html/Game/includes/main.php on line 600
+[19-Jan-2022 18:51:50 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 439
+[19-Jan-2022 18:51:50 Europe/Warsaw] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 711
+[19-Jan-2022 18:51:50 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 18:51:50 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 750
+[19-Jan-2022 18:52:24 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 18:52:26 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 18:52:43 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 18:53:12 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 439
+[19-Jan-2022 18:53:12 Europe/Warsaw] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 711
+[19-Jan-2022 18:53:12 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 18:53:12 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 750
+[19-Jan-2022 18:54:03 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 18:54:10 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 22:28:05 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 22:28:14 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:05:29 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:05:41 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/index.php on line 182
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 439
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 490
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 539
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 541
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 574
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 711
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:10:43 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 750
+[19-Jan-2022 23:11:04 Europe/Warsaw] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/index.php on line 182
+[19-Jan-2022 23:11:04 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 490
+[19-Jan-2022 23:11:04 Europe/Warsaw] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 539
+[19-Jan-2022 23:11:04 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 541
+[19-Jan-2022 23:11:04 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 574
+[19-Jan-2022 23:11:04 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:13:31 Europe/Warsaw] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/index.php on line 182
+[19-Jan-2022 23:13:31 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 490
+[19-Jan-2022 23:13:31 Europe/Warsaw] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 539
+[19-Jan-2022 23:13:31 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 541
+[19-Jan-2022 23:13:31 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 574
+[19-Jan-2022 23:13:31 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:13:40 Europe/Warsaw] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/index.php on line 182
+[19-Jan-2022 23:13:40 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 490
+[19-Jan-2022 23:13:40 Europe/Warsaw] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 539
+[19-Jan-2022 23:13:40 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 541
+[19-Jan-2022 23:13:40 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 574
+[19-Jan-2022 23:13:40 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:31:00 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:31:29 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:31:32 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:33:19 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:44:57 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:45:00 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:46:50 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:46:51 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[19-Jan-2022 23:46:57 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:14:54 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:16:38 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:16:53 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:16:53 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:17:26 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:17:26 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:17:58 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:17:59 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:18:12 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:18:26 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:18:29 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:21:22 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:21:29 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:21:44 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:22:09 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:24:19 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:33:51 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:35:12 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:35:17 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:35:34 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:35:35 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:37:23 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:37:46 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:38:13 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:40:14 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:40:51 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:54:54 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727
+[20-Jan-2022 00:54:55 Europe/Warsaw] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /usr/home/wafkee/domains/avatar-gamer.ga/public_html/Game/includes/main.php on line 727

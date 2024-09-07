@@ -1,0 +1,40 @@
+--------------------------------------------------------
+SANS 2.0 - License for Use
+
+current version: 2.0.0
+last modified: 25/05/2015 by Tom Wilson
+author: Tom Wilson
+email: tom@launchpaddigital.ltd.uk
+--------------------------------------------------------
+
+The licensors of the SANS 2.0 software are Launchpad Digital Limited, and the distribution website is http://getsans.com/
+
+Use of the SANS 2.0 software implies that you understand this license agreement and will adhere to its restrictions.
+
+The software is built off of the Laravel PHP Framework and contains many modules, all of which are licensed under the MIT license - the license for such is as follows:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Any additional code that is not part of Laravel or the included modules (a full description of modified code is available at request from the licensors) is bound by the Terms of Use of the SANS software, which are available from the distribution website (http://getsans.com/), by clicking the Terms of Use button. It is important to note that this additional code constitutes the aforementioned software (SANS), and using it requires a license key provided by the licensors.
+
+A detailed version of specifics regarding the Terms of Use of the SANS software are found on the distribution website noted above.
+
+If you do not understand this license, or the associated Terms of Use, please do not use the software until you contact the licensors for clarification.
+
+DO NOT PROCEED USING THIS SOFTWARE IF YOU DO NOT HAVE THE RIGHT TO DO SO.

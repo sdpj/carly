@@ -1,0 +1,127 @@
+[08-Jun-2013 10:49:25 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:49:25 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:49:25 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:49:25 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:49:37 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:49:37 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:49:37 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:49:37 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:07 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:07 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:07 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:07 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:07 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 3
+[08-Jun-2013 10:50:10 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:10 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:10 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:10 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:10 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 3
+[08-Jun-2013 10:50:11 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:11 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:11 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:11 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:11 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 3
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 3
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 3
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bailey/public_html/Header.php on line 4
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 5
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 5
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bailey/public_html/Header.php on line 6
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 7
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 7
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/bailey/public_html/Header.php on line 8
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 9
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 9
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bailey/public_html/Header.php on line 10
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 11
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 11
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 12
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 12
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bailey/public_html/Header.php on line 13
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bailey/public_html/Header.php on line 14
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 16
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 16
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bailey/public_html/Header.php on line 17
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 281
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 281
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 282
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 282
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bailey/public_html/Header.php on line 283
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bailey/public_html/Header.php on line 284
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bailey'@'localhost' (using password: NO) in /home/bailey/public_html/Header.php on line 314
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bailey/public_html/Header.php on line 314
+[08-Jun-2013 10:50:12 Europe/Moscow] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bailey/public_html/Header.php on line 316
+[08-Jun-2013 10:50:38 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:38 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:38 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:38 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:39 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:39 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:39 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:50:39 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:34 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:34 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:34 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:34 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:51 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:51 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:51 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:51 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:51 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 27
+[08-Jun-2013 10:51:53 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:53 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:53 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:53 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:53 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 27
+[08-Jun-2013 10:51:54 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:54 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:54 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:54 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:54 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 27
+[08-Jun-2013 10:51:55 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:55 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:55 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:55 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:55 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 27
+[08-Jun-2013 10:51:56 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:56 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:56 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:56 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:56 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 27
+[08-Jun-2013 10:51:57 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:57 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:57 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:57 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:57 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/bailey/public_html/Global.php on line 27
+[08-Jun-2013 10:51:59 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:59 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:59 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:51:59 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:52:23 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:52:23 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:52:23 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:52:23 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:54:55 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:54:55 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:54:55 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:54:55 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 10:58:41 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 10:58:41 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 10:58:41 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 10:58:41 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 11:11:06 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 11:11:06 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 11:11:06 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 11:11:06 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[08-Jun-2013 14:35:41 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[08-Jun-2013 14:35:41 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[08-Jun-2013 14:35:41 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[08-Jun-2013 14:35:41 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[09-Jun-2013 05:11:19 Europe/Moscow] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[09-Jun-2013 05:11:19 Europe/Moscow] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[09-Jun-2013 05:11:19 Europe/Moscow] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[09-Jun-2013 05:11:19 Europe/Moscow] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0

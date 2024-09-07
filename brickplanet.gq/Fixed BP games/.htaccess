@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^user.php/(.*) user/$1 [R=301]
+AddType application/x-httpd-php56 .php

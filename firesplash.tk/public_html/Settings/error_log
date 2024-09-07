@@ -1,0 +1,81 @@
+[18-Aug-2017 16:32:12 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:32:12 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:32:39 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:32:39 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:32:42 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:32:42 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:15 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:15 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:46 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:46 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:48 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:48 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:55 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:55 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:58 America/New_York] PHP Warning:  include(/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php): failed to open stream: No such file or directory in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[18-Aug-2017 16:36:58 America/New_York] PHP Warning:  include(): Failed opening '/home/richggby/epicclub.richardlabs.comEpicClubRebootMisc\connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/richggby/epicclub.richardlabs.com/EpicClubRebootMisc/header.php on line 5
+[22-Aug-2017 13:39:09 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[30-Aug-2017 18:02:53 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[30-Aug-2017 18:03:06 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[31-Aug-2017 18:10:47 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[25-Sep-2017 11:55:18 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[07-Nov-2018 14:31:07 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[12-Apr-2019 09:02:53 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[22-Apr-2019 06:48:03 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[22-Apr-2019 06:48:19 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[22-Apr-2019 06:48:19 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[22-Apr-2019 06:48:27 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[22-Apr-2019 06:48:27 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[17-May-2019 19:34:19 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[28-Aug-2019 11:37:54 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[28-Aug-2019 16:19:40 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[01-Sep-2019 09:45:31 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[01-Sep-2019 11:00:19 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:00:26 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:00:26 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:00:45 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:00:45 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:52:55 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:54:00 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:54:00 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:56:42 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:56:50 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:56:50 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:56:59 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:57:12 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 11:57:12 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[01-Sep-2019 13:23:27 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[01-Sep-2019 13:23:27 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[01-Sep-2019 13:39:17 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[01-Sep-2019 13:39:29 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[01-Sep-2019 13:39:29 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:06:58 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:07:38 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:07:39 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:07:52 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:07:53 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:08:07 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:08:12 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:08:13 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:08:59 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[02-Sep-2019 03:08:59 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 04:37:43 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 04:38:01 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 04:38:01 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 06:42:12 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[03-Sep-2019 06:55:50 America/New_York] PHP Parse error:  syntax error, unexpected '$ID' (T_VARIABLE), expecting ',' or ';' in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 45
+[03-Sep-2019 06:56:11 America/New_York] PHP Parse error:  syntax error, unexpected '$ID' (T_VARIABLE), expecting ',' or ';' in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 45
+[03-Sep-2019 07:04:20 America/New_York] PHP Notice:  Undefined variable: USERNAME in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 46
+[03-Sep-2019 07:06:25 America/New_York] PHP Notice:  Undefined variable: USERNAME in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 46
+[03-Sep-2019 07:06:48 America/New_York] PHP Notice:  Undefined variable: USERNAME in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 46
+[03-Sep-2019 07:07:56 America/New_York] PHP Notice:  Undefined variable: USERNAME in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 46
+[03-Sep-2019 07:08:04 America/New_York] PHP Notice:  Undefined variable: USERNAME in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 46
+[03-Sep-2019 07:08:12 America/New_York] PHP Notice:  Undefined variable: USERNAME in /home/richggby/epicclub.richardlabs.com/Settings/changename.php on line 46
+[03-Sep-2019 07:21:45 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[03-Sep-2019 07:24:15 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 86
+[03-Sep-2019 12:12:04 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 12:12:08 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 12:12:10 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 12:12:27 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 12:12:28 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84
+[03-Sep-2019 12:22:33 America/New_York] PHP Notice:  Undefined variable: expireDate in /home/richggby/epicclub.richardlabs.com/Settings/index.php on line 84

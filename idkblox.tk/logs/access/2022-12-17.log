@@ -1,0 +1,7 @@
+195.181.164.34 - - [17/Dec/2022:05:34:24 +0100] "GET / HTTP/1.1" 200 1039 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46"
+195.181.164.34 - - [17/Dec/2022:05:34:27 +0100] "GET /favicon.ico HTTP/1.1" 404 2576 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46"
+195.181.164.34 - - [17/Dec/2022:05:34:28 +0100] "GET /README.md HTTP/1.1" 200 124 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46"
+195.181.164.34 - - [17/Dec/2022:05:34:47 +0100] "GET /game/ HTTP/1.1" 200 1466 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46"
+195.181.164.34 - - [17/Dec/2022:05:34:53 +0100] "GET /game/ HTTP/1.1" 200 1466 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46"
+195.181.164.34 - - [17/Dec/2022:05:34:56 +0100] "GET /asset/ HTTP/1.1" 200 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46"
+195.181.164.34 - - [17/Dec/2022:05:34:59 +0100] "GET /My/ HTTP/1.1" 200 468 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46"

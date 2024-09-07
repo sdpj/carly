@@ -1,0 +1,99 @@
+[16-Dec-2012 01:51:56] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[16-Dec-2012 01:51:56] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/socialpa/public_html/API/GradientGD.php on line 34
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so: undefined symbol: php_pdo_get_dbh_ce in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Dec-2012 12:28:07 America/Chicago] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[21-Dec-2012 12:28:07 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[24-Dec-2012 12:25:51 Europe/Moscow] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[24-Dec-2012 12:25:51 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[25-Dec-2012 12:58:37 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[25-Dec-2012 12:58:37 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[02-Jan-2013 13:56:11 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[02-Jan-2013 13:56:11 Europe/Moscow] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 62
+[02-Jan-2013 13:56:11 Europe/Moscow] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 63
+[02-Jan-2013 13:56:11 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[02-Jan-2013 14:01:25 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[02-Jan-2013 14:01:25 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[02-Jan-2013 23:46:05 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[02-Jan-2013 23:46:05 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[02-Jan-2013 23:50:35 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[02-Jan-2013 23:50:35 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[02-Jan-2013 23:54:31 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[02-Jan-2013 23:54:31 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Jan-2013 00:04:23 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[03-Jan-2013 00:04:23 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Jan-2013 08:09:59 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[03-Jan-2013 08:09:59 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Jan-2013 08:16:30 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[03-Jan-2013 08:16:30 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Jan-2013 08:23:03 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[03-Jan-2013 08:23:03 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Jan-2013 08:45:45 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[03-Jan-2013 08:45:45 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Jan-2013 12:02:25 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[03-Jan-2013 12:02:25 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Jan-2013 12:07:48 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[03-Jan-2013 12:07:48 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 01:44:14 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 01:44:14 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 02:04:51 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 02:04:51 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 02:12:51 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 02:12:51 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 02:48:00 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 02:48:00 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 05:26:32 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 05:26:32 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 05:36:10 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 05:36:10 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 05:40:05 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 05:40:05 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Jan-2013 06:16:24 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Jan-2013 06:16:24 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[13-Jan-2013 03:40:13 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[13-Jan-2013 03:40:13 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[20-Jan-2013 01:27:45 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[20-Jan-2013 01:27:45 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[27-Jan-2013 00:03:10 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[27-Jan-2013 00:03:10 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[29-Jan-2013 22:38:23 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[29-Jan-2013 22:38:23 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[30-Jan-2013 21:08:27 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[30-Jan-2013 21:08:27 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[30-Jan-2013 21:16:41 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[30-Jan-2013 21:16:41 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[01-Feb-2013 22:45:41 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[01-Feb-2013 22:45:41 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[03-Feb-2013 01:42:28 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 173
+[03-Feb-2013 01:42:28 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 174
+[03-Feb-2013 01:42:28 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 175
+[03-Feb-2013 01:42:38 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 173
+[03-Feb-2013 01:42:38 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 174
+[03-Feb-2013 01:42:38 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 175
+[03-Feb-2013 01:42:38 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 173
+[03-Feb-2013 01:42:38 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 174
+[03-Feb-2013 01:42:38 Europe/Moscow] PHP Warning:  Division by zero in /home/socialpa/public_html/API/GradientGD.php on line 175
+[04-Feb-2013 01:44:06 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[04-Feb-2013 01:44:06 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[05-Feb-2013 19:21:40 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[05-Feb-2013 19:21:40 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[08-Feb-2013 19:46:24 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[08-Feb-2013 19:46:24 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[09-Feb-2013 01:33:12 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[09-Feb-2013 01:33:12 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[15-Jan-2014 15:37:37 America/New_York] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/avaworld/public_html/API/GradientGD.php on line 15
+[15-Jan-2014 15:37:37 America/New_York] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/avaworld/public_html/API/GradientGD.php on line 34
+[27-Mar-2014 16:34:28 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/world/public_html/API/GradientGD.php on line 15
+[27-Mar-2014 16:34:28 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/world/public_html/API/GradientGD.php on line 34

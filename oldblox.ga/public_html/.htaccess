@@ -1,0 +1,21 @@
+AddType application/x-httpd-php56 .php
+RewriteEngine on
+RewriteRule ^(.*).aspx$ $1.php
+Options -Indexes
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 21 
+RewriteRule ^(.*)$ http://avatar-gamer.ga/$1 [R,L]
+
+
+
+
+ErrorDocument 404 http://avatar-gamer.ga/Error/?code=404
+ErrorDocument 403 http://avatar-gamer.ga/Error/?code=403
+ErrorDocument 500 http://avatar-gamer.ga/Error/?code=500
+ 

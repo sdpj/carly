@@ -1,0 +1,14 @@
+[31-Dec-2014 12:47:01 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 12:47:01 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[31-Dec-2014 12:47:38 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 12:47:38 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[31-Dec-2014 12:47:50 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 12:47:50 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[31-Dec-2014 12:47:53 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 12:47:53 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[31-Dec-2014 13:05:21 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 13:05:21 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[31-Dec-2014 13:44:25 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 13:44:25 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301
+[31-Dec-2014 13:46:21 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/world2build/public_html/Header.php on line 300
+[31-Dec-2014 13:46:21 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/world2build/public_html/Header.php on line 301

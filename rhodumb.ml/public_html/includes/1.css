@@ -1,0 +1,80 @@
+@keyframes alertGlow {
+  from {color: #bbb;}
+  50% {color: #00b0ff;}
+  to {color: #bbb;}
+}
+
+@-webkit-keyframes alertGlow {
+  from {color: #bbb;}
+  50% {color: #00b0ff;}
+  to {color: #bbb;}
+}
+
+@-moz-keyframes alertGlow {
+  from {color: #bbb;}
+  50% {color: #00b0ff;}
+  to {color: #bbb;}
+}
+
+@-o-keyframes alertGlow {
+  from {color: #bbb;}
+  50% {color: #00b0ff;}
+  to {color: #bbb;}
+}
+
+.alert-glow {
+  animation: alertGlow 2.5s linear 2s infinite alternate;
+  -webkit-animation: alertGlow 2.5s linear 2s infinite alternate;
+  -moz-animation: alertGlow 2.5s linear 2s infinite alternate;
+  -o-animation: alertGlow 2.5s linear 2s infinite alternate;
+}
+
+a:not(.btn), .tabs .tab a, .card .collection-item p, .collection a.collection-item, .navbar-fixed nav .brand-logo, .dropdown-content li>a, .dropdown-content li>span, .notification-content, .message-content, .dropdown-content li>a, .dropdown-content li>span, textarea.materialize-textarea:focus:not([readonly]) + label, input:focus:not([readonly]) + label, .c100:hover > span, .individual-scores-container .percentile p {
+  color: #00b0ff;
+}
+
+.tabs .tab a:hover {
+  color: #40c4ff;
+}
+
+.tabs .indicator, .message-from-user {
+  background-color: #40c4ff;
+}
+
+.pagination li a {
+  color: #00b0ff;
+}
+
+.navbar-fixed nav {
+  border-bottom: 5px solid #00b0ff;
+}
+
+nav, .btn, input[type="range"] + .thumb, [type="radio"]:checked + label:after, span.new.badge, .pagination li.active, .btn-floating, .btn-floating:hover, [type="checkbox"].filled-in:checked +label:after, .progress .determinate, .slider .indicators .indicator-item.active, .return-message {
+  background-color: #00b0ff;
+}
+
+input[type=range]::-webkit-slider-thumb { 
+  background-color: #00b0ff;
+}
+
+[type="radio"]:checked + label:after, [type="checkbox"].filled-in:checked +label:after, .table-of-contents a.active, .table-of-contents a:hover, .c100 .fill, .pie, .c100 .bar {
+  border-color: #00b0ff !important;
+}
+
+textarea.materialize-textarea:focus:not([readonly]), input:focus:not([readonly]) {
+  border-bottom: 1px solid #00b0ff !important;
+  box-shadow: 0 1px 00 #00b0ff !important;
+}
+
+textarea.materialize-textarea:focus:not([readonly]) + label, input:focus:not([readonly]) + label {
+  color: #00b0ff !important;
+}
+
+.btn {
+  background-color: #00b0ff !important;
+}
+
+[type="checkbox"].not-filled-in:checked +label:before, [type="checkbox"]:checked+label:before {
+  border-right-color: #00b0ff;
+  border-bottom-color: #00b0ff;
+}

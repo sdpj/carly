@@ -1,0 +1,3 @@
+[Thu Dec 15 22:52:40.386865 2022] [authz_core:error] [pid 91893] [client 24.176.90.134:0] AH01630: client denied by server configuration: /usr/home/sadladsusan/domains/sadladsusan.ct8.pl/public_html/2013_player/.htaccess, referer: http://sadladsusan.ct8.pl/
+[Thu Dec 15 22:53:11.618068 2022] [authz_core:error] [pid 9808] [client 24.176.90.134:0] AH01630: client denied by server configuration: /usr/home/sadladsusan/domains/sadladsusan.ct8.pl/public_html/2013_player/.htaccess, referer: http://sadladsusan.ct8.pl/
+[Thu Dec 15 22:59:45.845418 2022] [authz_core:error] [pid 42085] [client 24.176.90.134:0] AH01630: client denied by server configuration: /usr/home/sadladsusan/domains/sadladsusan.ct8.pl/public_html/player2013/.htaccess, referer: http://sadladsusan.ct8.pl/
